@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-# This is a test
+# Liam Hunsberger's First CS19300 Website
+### Liam's Favorite things about CS 19300\
+1. Taught by students so they know what students go through.
+2. Alternating lecture-lab schedule.
+3. Lots of resources offered
 
 ### Markdown
 
